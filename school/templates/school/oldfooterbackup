@@ -1,0 +1,116 @@
+    
+    
+    <footer class="">
+		<div class="block darkblue-layer">
+			<div data-velocity="-.1" style="background: url(images/parallax3.jpg) repeat scroll 50% 0 transparent;" class="parallax"></div>
+			<div class="container">
+				<div class="footer-widgets">
+					<div class="row">
+						<div class="col-md-3">
+							<div class="widget">
+								<div class="about-widget">
+                                    <img src="" alt="">
+									<a href="#"><img src="images/newlogo.png" style="max-width:80%;"></a>
+									<p>Vestibulum id ligula porta felis euismod sem per. Aenean eu leo quam. Pellentesque orn are sem lacinia quam venenatis. Fusce dap ibus, tellus ac cursus commodo ut fermentu massa. mentum sit amet risus.</p>
+								</div>
+							</div><!-- Widget -->
+						</div>
+						<div class="col-md-3">
+							<div class="widget">
+								<div class="widget-title">
+									<h4>Recent News</h4>
+									<span>Blog Posts</span>
+								</div>
+								<div class="widget-news">
+									<div class="recent-news">
+										<span class="date">
+											<i>August</i><strong>25</strong>
+										</span>
+										<a href="blog-detail.html" title="">An Exceptional Hotel</a>
+									</div><!-- News -->
+									<div class="recent-news">
+										<span class="date">
+											<i>August</i><strong>18</strong>
+										</span>
+										<a href="blog-detail.html" title="">Comfortable & Spacious Apartment</a>
+									</div><!-- News -->
+								</div><!-- News Widget -->
+							</div>
+						</div>
+						<div class="col-md-3">
+							<div class="widget">
+								<div class="offers-widget">
+									<div class="offer">
+										<img src="images/resource/footer-room1.jpg" alt="" />
+										<div class="offer-overlay">
+											<span>Couple Room</span>
+											<a href="packages-detail.html" title="">Honymoon Suite</a>
+										</div>
+									</div><!-- Offer -->
+									<div class="offer">
+										<img src="images/resource/footer-room2.jpg" alt="" />
+										<div class="offer-overlay">
+											<span>Couple Room</span>
+											<a href="packages-detail.html" title="">Honymoon Suite</a>
+										</div>
+									</div><!-- Offer -->
+									<div class="offer">
+										<img src="images/resource/footer-room3.jpg" alt="" />
+										<div class="offer-overlay">
+											<span>Couple Room</span>
+											<a href="packages-detail.html" title="">Honymoon Suite</a>
+										</div>
+									</div><!-- Offer -->
+								</div><!-- Offers Widget -->
+							</div>
+						</div>
+						<div class="col-md-3">
+							<div class="widget">
+								<div class="widget-title">
+									<h4>Luxury Offer</h4>
+									<span>Local Guide</span>
+								</div>
+								<ul>
+									<li><i class="fa fa-umbrella"></i> Boutiques</li>
+									<li><i class="fa fa-laptop"></i> Complimentary wireless internet</li>
+									<li><i class="fa fa-clock-o"></i> Private beach with service</li>
+									<li><i class="fa fa-wifi"></i> Pet-friendly resort</li>
+									<li><i class="fa fa-umbrella"></i> Tennis courts</li>
+								</ul><!-- ul -->
+							</div><!-- Luxury Offers -->
+						</div>
+					</div>
+				</div><!-- Footer Widgets -->
+			</div>
+		</div>
+	</footer><!-- footer -->
+
+	<div class="bottom-footer">
+		<div class="container">
+			<div class="contact-bar">
+				<div class="col-md-4">
+					<div class="contact-details">
+						<span><i class="fa fa-map-marker"></i></span>
+						<strong>Address:</strong>
+						<p>Koteshor, Kathmandu, Nepal</p>
+					</div><!-- contact-details -->
+				</div>
+				<div class="col-md-4">
+					<div class="contact-details dark">
+						<span><i class="fa fa-phone"></i></span>
+						<strong>Call Us Now:</strong>
+						<p>+977 9841999999, +977 9841999999</p>
+					</div><!-- contact-details -->
+				</div>
+				<div class="col-md-4">
+					<div class="contact-details">
+						<span><i class="fa fa-envelope-square"></i></span>
+						<strong>Email Address:</strong>
+						<p>dummy@dummy.com</p>
+					</div><!-- contact-details -->
+				</div>
+			</div><!-- contact-data -->		
+			<p>&copy; 2015 <a href="#">Resort</a> - All Rights Reserved - Made By <a href="#">SupremeITSolutions</a></p>
+		</div><!-- container -->
+	</div><!-- after-footer -->
+

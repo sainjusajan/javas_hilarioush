@@ -1,0 +1,11 @@
+{{posts}}
+{%for photo in photos%}
+   {{photo.description}}	
+   <img src="{{photo.image.url}}">
+
+{%endfor%}
+
+{%for file in files%}
+	
+	<a href="{{file.doc.url}}">Download {{file.title}}</a>
+{%endfor%}
