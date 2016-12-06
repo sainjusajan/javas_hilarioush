@@ -1,7 +1,155 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="664caeaa-a097-4beb-a5a6-6c0d5218d113" name="Default" comment="" />
+    <list default="true" id="664caeaa-a097-4beb-a5a6-6c0d5218d113" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/css/all.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/css/color.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/css/color.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/css/color2.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/css/extralayers.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/css/mixins.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/css/mystyle.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/css/mystyle.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/css/responsive.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/css/settings.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/css/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/css/styles.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/font-awesome/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/font-awesome/fonts/fontawesome-webfontd41d.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/font-awesome/fonts/fontawesome-webfonte0a5.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/font-awesome/fonts/fontawesome-webfonte0a5.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/font-awesome/fonts/fontawesome-webfonte0a5.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/font-awesome/fonts/fontawesome-webfonte0a5.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/font-awesome/fonts/fontawesome-webfonte0a5.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/font/revicons90c6-2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/font/revicons90c6-3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/font/revicons90c6-4.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/font/revicons90c6.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/fonts/fontawesome-webfontd41d.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/fonts/fontawesome-webfonte0a5.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/fonts/fontawesome-webfonte0a5.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/fonts/fontawesome-webfonte0a5.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/fonts/fontawesome-webfonte0a5.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/fonts/fontawesome-webfonte0a5.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/fonts/glyphicons-halflings-regular-2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/fonts/glyphicons-halflings-regular-3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/fonts/glyphicons-halflings-regular-4.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/fonts/glyphicons-halflings-regular-5.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/fonts/glyphicons-halflings-regular.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/fonts/glyphicons-halflings-regulard41d.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/fonts/glyphicons-halflings-regulard41d.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/imag/images/assets/gradient/g30.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/imag/images/assets/gradient/g40.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/1 (2).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/1 (3).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/1 (4).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/1 (5).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/1 (6).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/assets/arrow_left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/assets/arrow_left2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/assets/arrow_right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/assets/arrow_right2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/assets/arrowleft.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/assets/arrowright.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/assets/boxed_bgtile.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/assets/bullet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/assets/bullet_boxed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/assets/bullets.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/assets/bullets2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/assets/coloredbg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/assets/gridtile.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/assets/gridtile_3x3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/assets/gridtile_3x3_white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/assets/gridtile_white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/assets/large_left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/assets/large_right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/assets/loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/assets/navigdots.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/assets/navigdots_bgtile.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/assets/shadow1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/assets/shadow2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/assets/shadow3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/assets/small_left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/assets/small_left_boxed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/assets/small_right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/assets/small_right_boxed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/assets/timer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/blockquote.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/calendar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/checkbox.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/clients-carousel-control.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/contact-sidebar/1 (1).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/contact-sidebar/1 (2).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/contact-sidebar/1 (3).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/contact-sidebar/1 (4).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/contact-sidebar/1 (5).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/contact-sidebar/1 (6).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/cross.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/error.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/fancy-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/fancy-logo2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/fancy-search-tabs.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/footerbg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/footerlogo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/gallery-thumb/gallerys-carousel1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/gallery-thumb/gallerys-carousel2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/gallery-thumb/gallerys-carousel3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/gallery-thumb/gallerys-carousel4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/gallery-thumb/gallerys-carousel5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/gallerys-carousel1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/gallerys-carousel2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/gallerys-carousel3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/gallerys-carousel4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/gallerys-carousel5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/hilarioush.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/incr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/link.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/myimg1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/myimg2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/myimg3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/myimg4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/myimg5 - Copy.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/myimg5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/pagetop.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/play.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/radio.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/rooms-tab-hover-img.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/service-icon1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/service-icon2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/service-icon3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/service2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/services-arrows.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/success.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/images/visa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/js/all.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/js/bootstrap-datepicker.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/js/check-radio-box.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/js/enscroll-0.5.2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/js/isotope-initialize.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/js/jquery-1.11.2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/js/jquery.isotope.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/js/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/js/jquery.poptrox.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/js/jquery.scrolly.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/js/jquery.simpleWeather.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/js/owl.carousel.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/js/revolution/jquery.themepunch.revolution.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/js/revolution/jquery.themepunch.tools.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/js/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/js/select2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/school/templates/school/js/userincr.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/school/templates/school/base.html" afterPath="$PROJECT_DIR$/school/templates/school/base.html" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,18 +176,38 @@
     <favorites_list name="SchoolProject" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/school/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+            <state relative-caret-position="104">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/school/templates/school/base.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="385">
+              <caret line="142" column="31" lean-forward="false" selection-start-line="142" selection-start-column="31" selection-end-line="142" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/school/templates/school/base.html" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -69,7 +237,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -96,15 +263,95 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SchoolProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SchoolProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="school" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
   </component>
   <component name="RunManager" selected="Django server.SchoolProject">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SchoolProject" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SchoolProject" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SchoolProject" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
     <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -126,6 +373,157 @@
       <option name="runNoReload" value="false" />
       <option name="useCustomRunCommand" value="false" />
       <option name="customRunCommand" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SchoolProject" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="SchoolProject" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SchoolProject" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SchoolProject" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SchoolProject" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SchoolProject" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SchoolProject" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
     <configuration default="false" name="SchoolProject" type="Python.DjangoServer" factoryName="Django server">
@@ -181,24 +579,24 @@
     <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1970999" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19978517" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -214,8 +612,24 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/school/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/school/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/school/templates/school/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="142" column="31" lean-forward="false" selection-start-line="142" selection-start-column="31" selection-end-line="142" selection-end-column="31" />
           <folding />
         </state>
       </provider>
